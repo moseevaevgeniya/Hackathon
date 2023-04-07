@@ -7,4 +7,4 @@
 - Задача со звёздочкой: прогнозирования времени исполнения запроса по предоставленным данным.
 
 ###### Вот что получилось:
-[Решение]()
+[Решение](https://github.com/moseevaevgeniya/Hackathon/blob/5bb02e7f3326c77c805bd649fea320954cfa8f89/1.Skolkovo%20Hack%202022/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD-%D1%84%D0%B8%D0%BD%D0%B0%D0%BB_%D0%B4%D0%BB%D1%8F_%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8__2_.ipynb)
